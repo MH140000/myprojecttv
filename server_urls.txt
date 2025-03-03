@@ -1,2 +1,2 @@
-SERVER1_URL=https://raw.githubusercontent.com/mytvsat/apptv4/refs/heads/main/ini.txt
+SERVER1_URL=https://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/ini.txt
 SERVER2_URL=https://slaslal.com/api/
