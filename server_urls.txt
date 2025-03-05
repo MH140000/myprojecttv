@@ -3,5 +3,5 @@ SERVER1_URL=https://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main
 SERVER2_URL=https://slaslal.com/api/
 connect_salfinal_getdata2025.php
 
-SERVER3_URL=https://airmaxtv.de/airmaxtvpro/airmaxtv.php
-?username=airmaxtv1&password=airmaxtv02032025&type=m3u_plus&output=mpegts
+SERVER3_URL=https://airmaxtv.de/promax/livetv.php
+?username=airmaxtvProV115.&password=ProV115.airmaxtv&type=m3u_plus&output=mpegts
